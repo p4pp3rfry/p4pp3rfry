@@ -1,4 +1,4 @@
-## Building the p4pp3rfry hackerspace - bit by bit
+## my-hackerspace
 
 ## welcome imaginary friend
 
