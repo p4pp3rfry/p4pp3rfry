@@ -1,4 +1,4 @@
-## my-hackerspace
+## my hackerspace
 
 ## welcome imaginary friend
 
