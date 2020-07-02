@@ -1,6 +1,10 @@
-## my hackerspace
+---
+permalink: /default.html
+---
 
 ## welcome imaginary friend
+
+### This is where I can see the syntax for any new files I might want to create, also this was the first page I ever saw.
 
 You can use the [editor on GitHub](https://github.com/p4pp3rfry/p4pp3rfry-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
