@@ -7,6 +7,8 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class JavaLoops1 {
+    
+    //https://www.hackerrank.com/challenges/java-loops-i/problem
 
     private static final Scanner scanner = new Scanner(System.in);
 
